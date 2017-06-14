@@ -1,0 +1,10 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="composeExecPath" value="$USER_HOME$/www/vm-america/docker/docker-compose.yml" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>

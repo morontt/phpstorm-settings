@@ -1,23 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="ag_dn" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
-      <mapping pattern="cs" type="PLAIN_TEXT" />
-      <mapping pattern="test_6dbc914a840fc1bce223ca80953c9b91d0464d67" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="ag_crimea" type="PLAIN_TEXT" />
-      <mapping pattern=".bashrc" type="PLAIN_TEXT" />
-      <mapping pattern="grabber" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
-      <mapping pattern="3fc490" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="sess_6ahcoc24cueu9llf5qgie09ki2" type="PLAIN_TEXT" />
-      <mapping ext="frm" type="PLAIN_TEXT" />
-      <mapping ext="features" type="PLAIN_TEXT" />
-      <mapping ext="message" type="PLAIN_TEXT" />
-      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dist" type="PLAIN_TEXT" />
+      <mapping pattern="msmtp" type="PLAIN_TEXT" />
+      <mapping pattern="g_p12_file_here_needs" type="PLAIN_TEXT" />
+      <mapping ext="jsons" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
